@@ -128,10 +128,6 @@
     &nbsp;&nbsp;
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-
-
-
-    <br />
   </div>
 </div>
 <br />
@@ -144,10 +140,11 @@
     <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjarwal999&show_icons=true&locale=en&layout=compact"
         alt="karanjarwal999" /></p>
-
-    <p>&nbsp;<img align="center"
+    <p>
+       <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=karanjarwal999&show_icons=true&locale=en"
-        alt="karanjarwal999" /></p>
+        alt="karanjarwal999" /> 
+    </p>
   </div>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanjarwal999&"
       alt="karanjarwal999" /></p>
