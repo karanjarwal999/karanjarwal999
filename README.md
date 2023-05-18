@@ -14,7 +14,7 @@
   <a href="mailto:karanjarwal999@gmail.com" target="_blank">
     <img
       src=https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97
-      alt=github style="margin:0px 10px 5px 0px; height: 20px;" />
+      alt=github style="margin:0px 10px 20px 0px; height: 20px;" />
   </a>
   <a href="https://www.linkedin.com/in/karan-jarwal-86b890230/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
