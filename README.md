@@ -136,17 +136,17 @@
 <div align="center">
   <h2>Github Stats 📈</h2>
   <br />
-  <div style="display: flex; flex-direction: row; justify-content: space-around;">
-    <p><img align="left" 
+  <div style="display: flex; flex-direction:column; justify-content: center;">
+    <p><img
        src="https://github-readme-streak-stats.herokuapp.com/?user=karanjarwal999&theme=tokyonight"
       alt="karanjarwal999" /></p>
     <p>
-       <img align="center"
+       <img 
         src="https://github-readme-stats.vercel.app/api?username=karanjarwal999&theme=tokyonight&show_icons=true&locale=en"
         alt="karanjarwal999" /> 
     </p>
   </div>
-  <p><img align="center"
+  <p><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjarwal999&theme=tokyonight&show_icons=true&locale=en&layout=compact"
         alt="karanjarwal999" /></p>
   <br />
