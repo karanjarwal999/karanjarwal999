@@ -84,10 +84,6 @@
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px"
         src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="padding-bottom: 8px;"
-        src="https://tse4.mm.bing.net/th?id=OIP.cyGlxOKl3wJqBj4yaza_6QAAAA&pid=Api&P=0&h=180" alt="bootstrap" width="40"
-        height="40" /> </a>
-    &nbsp;&nbsp;
     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px"
         src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
     &nbsp;&nbsp;
